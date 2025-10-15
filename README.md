@@ -1,5 +1,12 @@
 # my1stRepo
 ## subtitle
-*bullet
-*bullet
-*bullet
+
+* this is a bullet
+* this is a bullet
+* this is a bullet
+
+  text
+  ```star coding
+  x = 2
+  ```
+  
