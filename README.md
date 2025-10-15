@@ -10,4 +10,4 @@
   x = 2
   ```
   
-![test](picture@d17e9217-dfef-433e-8039-f4d73a40c20a.jpeg)
+![test](d17e9217-dfef-433e-8039-f4d73a40c20a.jpeg)
